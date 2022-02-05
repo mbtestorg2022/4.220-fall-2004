@@ -4,19 +4,280 @@ title: Readings
 uid: 945836c0-802f-aa26-6441-15122e9c273b
 ---
 
-| LEC # | TOPICS | READINGS |
-| --- | --- | --- |
-|  {{< br >}}{{< br >}} 1 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Introduction {{< br >}}{{< br >}}  | &nbsp; |
-|  {{< br >}}{{< br >}} 2 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} The Paris Hotel (1550-1830) {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} [![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/0262040824) Dennis, M. [_Court and Garden: from the French Hôtel to the City of Modern Architecture_](https://mitpress.mit.edu/0262040824). Cambridge, MA: MIT Press, 1986, pp. 1-177. ISBN: 0262040824. {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 3 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} The London Townhouse (1550-1830) {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Summerson, J. _Georgian London_. London, UK: Pleiades Books, 1945. ISBN: 0300089880. {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 4 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} The NY Rowhouse and Tenement (1625-1875) {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Lockwood, C. _Bricks and Brownstone: The New York Row House, 1783-1929_. New York, NY: McGraw Hill, 1972. ISBN: 0847825221. {{< br >}}{{< br >}} Stern, R. A. M., G. Gilmartin, and J. M. Massengale. _New York 1900: Metropolitan Architecture and Urbanism, 1890-1915_. New York, NY: Rizzoli International Publishers, 1983, pp. 279-356. ISBN: 0847805115. {{< br >}}{{< br >}} Plunz, R. _A History of Housing in New York City: Dwelling Type and Social Change in the American Metropolis_. New York, NY: Columbia University Press, 1990, pp. 1-313. ISBN: 0231062974. {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 5 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} The NY Apartment (1875-1925) {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Stern, R. A. M., G. Gilmartin, and J. M. Massengale. _New York 1900: Metropolitan Architecture and Urbanism, 1890-1915_. New York, NY: Rizzoli International Publishers, 1983, pp. 384-477. ISBN: 0847805115. {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 6 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} The Paris Apartment (1850-1925) {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} [![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/0262040824) Dennis, M. [_Court and Garden: from the French Hôtel to the City of Modern Architecture_](https://mitpress.mit.edu/0262040824). Cambridge, MA: MIT Press, 1986, pp. 178-209. ISBN: 0262040824. {{< br >}}{{< br >}} Daly, C., ed. _Revue générale de l'architecture et des travaux publics_. Paris, France: Paulin Hetzel, 1839. (Out of print.) {{< br >}}{{< br >}} ———. _Architecture privée au XIXième siècle sous Napoléon III; nouvelles maisons de Paris et des environs_. Paris, France: Guimard, 1864. (Out of print.) {{< br >}}{{< br >}} Lipstadt, H. "Housing the Bourgeoisie: César Daly and the Ideal Home." With an introduction by A. Vidler. _Oppositions_ 8 (Spring 1977): 33-47. {{< br >}}{{< br >}} Pinckney, D. H. _Napoleon III and the Rebuilding of Paris_. Princeton, NJ: Princeton University Press, 1958. ISBN: 0691051364. {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 7 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Modern Housing Projects (1925-1975) {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Sherwood, Roger. _Modern Housing Prototypes_. Cambridge, MA: Harvard University Press, 1978. ISBN: 0674579410. {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 8 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Seminar I {{< br >}}{{< br >}}  | &nbsp; |
-|  {{< br >}}{{< br >}} 9 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Seminar II {{< br >}}{{< br >}}  | &nbsp; |
-|  {{< br >}}{{< br >}} 10 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Seminar III {{< br >}}{{< br >}}  | &nbsp; |
-|  {{< br >}}{{< br >}} 11 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Seminar IV {{< br >}}{{< br >}}  |   
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+READINGS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+1
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Introduction
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+2
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+The Paris Hotel (1550-1830)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/0262040824) Dennis, M. [_Court and Garden: from the French Hôtel to the City of Modern Architecture_](https://mitpress.mit.edu/0262040824). Cambridge, MA: MIT Press, 1986, pp. 1-177. ISBN: 0262040824.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+3
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+The London Townhouse (1550-1830)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Summerson, J. _Georgian London_. London, UK: Pleiades Books, 1945. ISBN: 0300089880.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+4
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+The NY Rowhouse and Tenement (1625-1875)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Lockwood, C. _Bricks and Brownstone: The New York Row House, 1783-1929_. New York, NY: McGraw Hill, 1972. ISBN: 0847825221.
+
+Stern, R. A. M., G. Gilmartin, and J. M. Massengale. _New York 1900: Metropolitan Architecture and Urbanism, 1890-1915_. New York, NY: Rizzoli International Publishers, 1983, pp. 279-356. ISBN: 0847805115.
+
+Plunz, R. _A History of Housing in New York City: Dwelling Type and Social Change in the American Metropolis_. New York, NY: Columbia University Press, 1990, pp. 1-313. ISBN: 0231062974.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+5
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+The NY Apartment (1875-1925)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Stern, R. A. M., G. Gilmartin, and J. M. Massengale. _New York 1900: Metropolitan Architecture and Urbanism, 1890-1915_. New York, NY: Rizzoli International Publishers, 1983, pp. 384-477. ISBN: 0847805115.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+6
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+The Paris Apartment (1850-1925)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/0262040824) Dennis, M. [_Court and Garden: from the French Hôtel to the City of Modern Architecture_](https://mitpress.mit.edu/0262040824). Cambridge, MA: MIT Press, 1986, pp. 178-209. ISBN: 0262040824.
+
+Daly, C., ed. _Revue générale de l'architecture et des travaux publics_. Paris, France: Paulin Hetzel, 1839. (Out of print.)
+
+———. _Architecture privée au XIXième siècle sous Napoléon III; nouvelles maisons de Paris et des environs_. Paris, France: Guimard, 1864. (Out of print.)
+
+Lipstadt, H. "Housing the Bourgeoisie: César Daly and the Ideal Home." With an introduction by A. Vidler. _Oppositions_ 8 (Spring 1977): 33-47.
+
+Pinckney, D. H. _Napoleon III and the Rebuilding of Paris_. Princeton, NJ: Princeton University Press, 1958. ISBN: 0691051364.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+7
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Modern Housing Projects (1925-1975)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Sherwood, Roger. _Modern Housing Prototypes_. Cambridge, MA: Harvard University Press, 1978. ISBN: 0674579410.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+8
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Seminar I
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+9
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Seminar II
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+10
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Seminar III
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+11
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Seminar IV
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Recommended Readings
 --------------------
